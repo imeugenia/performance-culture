@@ -192,16 +192,13 @@ function Icon() {
         fontWeight="500"
         letterSpacing="0em"
       >
-        <tspan x="843" y="40.5">
+        <tspan x="648" y="64">
           Performance goals{" "}
         </tspan>
-        <tspan x="843" y="87.5">
-          Performance is included in{" "}
+        <tspan x="648" y="111">
+          Performance included in time and complexity{" "}
         </tspan>
-        <tspan x="843" y="134.5">
-          time and complexity{" "}
-        </tspan>
-        <tspan x="843" y="181.5">
+        <tspan x="648" y="158">
           estimations
         </tspan>
       </text>
@@ -213,13 +210,16 @@ function Icon() {
         fontWeight="500"
         letterSpacing="0em"
       >
-        <tspan x="1857" y="329.5">
-          Perf. considered{" "}
+        <tspan x="1857" y="306">
+          Performance{" "}
         </tspan>
-        <tspan x="1857" y="376.5">
-          when choosing FE{" "}
+        <tspan x="1857" y="353">
+          considered when{" "}
         </tspan>
-        <tspan x="1857" y="423.5">
+        <tspan x="1857" y="400">
+          choosing FE{" "}
+        </tspan>
+        <tspan x="1857" y="447">
           architecture
         </tspan>
       </text>
@@ -246,17 +246,14 @@ function Icon() {
         fontWeight="500"
         letterSpacing="0em"
       >
-        <tspan x="843" y="1059">
-          Performance tests on the{" "}
+        <tspan x="698" y="1059">
+          Performance tests in CI/CD pipeline{" "}
         </tspan>
-        <tspan x="843" y="1106">
-          CI/CD pipeline{" "}
+        <tspan x="698" y="1106">
+          Performance is reported during sprint{" "}
         </tspan>
-        <tspan x="843" y="1153">
-          Performance is reported on{" "}
-        </tspan>
-        <tspan x="843" y="1200">
-          the sprint review
+        <tspan x="698" y="1153">
+          review
         </tspan>
       </text>
     </svg>

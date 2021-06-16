@@ -50,8 +50,8 @@ const Slide4 = () => (
       years ago. I work as a web developer at Gorillas. Gorillas is a grocery
       delivery startup based in Berlin but expanding super fast in other cities
       across the globe. In the past, I was very involved in the Google Developer
-      Group community organizing conferences and smaller events. Now I have a
-      shot at public speaking.
+      Group community organizing conferences and smaller events. But now I'm
+      more dedicated to sharing knowledge by doing public speaking.
     </Notes>
   </Slide>
 );

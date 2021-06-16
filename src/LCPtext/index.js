@@ -10,7 +10,11 @@ const Slide1 = () => (
         web.dev/lcp
       </Link>
     </FlexBox>
-    <Notes>LCP is metric - indicates how fast the content is loaded.</Notes>
+    <Notes>
+      LCP is metric - indicates how fast the content is loaded. Not just a
+      content, but the largest elements on the page. It could be an image or a
+      paragraph, or a large title.
+    </Notes>
   </Slide>
 );
 

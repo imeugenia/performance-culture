@@ -15,13 +15,13 @@ const Slide6 = () => (
       to be set and be part of every feature requirement. When estimating the
       time and complexity of the task we would take into account web performance
       as well. Also, when we start a new project we would think about which FE
-      architecture to choose so it would be the most performant. During the
-      release we would collect performance reports. We would constantly inform
-      our stakeholders about web performance on the sprint reviews. We would
-      create performance dashboards and set alerts, so we know when the website
-      becomes too slow. So many things could be done! Imagine how hard it is to
-      integrate into the process. Especially if you are the only one who drives
-      the initiative. It’s hard but not impossible.
+      architecture to choose so it would be the most performant. Performance
+      tests would be regularly run on the CI/CD pipeline. We would constantly
+      inform our stakeholders about web performance on the sprint reviews. We
+      would create performance dashboards and set alerts, so we know when the
+      website becomes too slow. So many things could be done! Imagine how hard
+      it is to integrate into the process. Especially if you are the only one
+      who drives the initiative. It’s hard but not impossible.
     </Notes>
   </Slide>
 );

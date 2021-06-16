@@ -7,12 +7,12 @@ const Slide1 = () => (
     <FlexBox height="100%">
       <Image height="100%" src={dashboard} />
     </FlexBox>
-    <Link
+    {/* <Link
       style={{ fontSize: "2rem" }}
       href="https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html"
     >
       Why 2.5 seconds?
-    </Link>
+    </Link> */}
     <Notes>
       I created web performance dashboards similar to this one and regularly
       tested the website with the help of different tools. At that time around

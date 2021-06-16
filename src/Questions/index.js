@@ -24,6 +24,14 @@ const Slide4 = () => (
           <Link style={{ display: "block" }} href="https://imeugenia.com/">
             imeugenia.com
           </Link>
+          <br />
+          Slides:
+          <Link
+            style={{ display: "block" }}
+            href="https://web-performance-culture.netlify.app/"
+          >
+            web-performance-culture.netlify.app
+          </Link>
         </Text>
       </Box>
       <Box>
